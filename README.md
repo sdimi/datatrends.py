@@ -1,6 +1,6 @@
 
 ## About 
-Datatrends is a reporting tool for detecting trends in big datasets. Your input is one or multiple datasets (csv, txt etc.) and the output is a pdf report with grephs of the correlated columns accompanied by descriptive statistics. The type of the regression line can be linear, quatradic or cubic and is automatically estimated by the R2 measure. 
+Datatrends is a reporting tool for detecting trends in big datasets. Your *input* is one or multiple datasets (csv, txt etc.)  The columns may contain various datatypes, the tool picks only the numerical ones. The *output* is a pdf report with graphs of the correlated columns accompanied by descriptive statistics. The type of the regression line can be linear, quatradic or cubic and is automatically estimated by the R2 measure. 
 
 ### Run 
 ```python

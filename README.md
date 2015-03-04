@@ -5,7 +5,13 @@ Datatrends is a reporting tool for detecting trends in big datasets. Your *input
 ### Run 
 ```python
 python analyzer.py dataset.csv
+#python3 recommended
 ```
+
+#### Dependencies
+* numpy
+* scipy
+* matplotlib
 
 #### The output report (pdf)
 ![PICTURE](http://i.imgur.com/qXcTthf.png)

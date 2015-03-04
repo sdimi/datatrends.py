@@ -11,6 +11,8 @@ python analyzer.py dataset.csv
 ![PICTURE](http://i.imgur.com/qXcTthf.png)
 ***
 
-#### Created by [Basilis Charalampakis](https://github.com/charbgr) and [Dimitris Spathis](https://github.com/sdimi)
+#### Authors
+* [Basilis Charalampakis](https://github.com/charbgr)
+* [Dimitris Spathis](https://github.com/sdimi)
 
 

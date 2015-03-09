@@ -16,7 +16,7 @@ python analyzer.py dataset.csv
 * matplotlib
 
 #### The output report (pdf)
-![PICTURE](http://i.imgur.com/qXcTthf.png)
+![PICTURE](http://i.imgur.com/wvBHKgK.jpg)
 ***
 
 #### Authors
